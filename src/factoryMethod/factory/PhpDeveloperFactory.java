@@ -1,8 +1,7 @@
 package factoryMethod.factory;
 
 import factoryMethod.developers.PhpDeveloper;
-import factoryMethod.interfaces.Developer;
-import factoryMethod.interfaces.DeveloperFactory;
+import factoryMethod.developers.Developer;
 
 public class PhpDeveloperFactory implements DeveloperFactory {
     @Override

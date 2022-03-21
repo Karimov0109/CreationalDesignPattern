@@ -1,11 +1,10 @@
 package factoryMethod;
 
-import factoryMethod.developers.CppDeveloper;
 import factoryMethod.factory.CppDeveloperFactory;
 import factoryMethod.factory.JavaDeveloperFactory;
 import factoryMethod.factory.PhpDeveloperFactory;
-import factoryMethod.interfaces.Developer;
-import factoryMethod.interfaces.DeveloperFactory;
+import factoryMethod.developers.Developer;
+import factoryMethod.factory.DeveloperFactory;
 
 public class Program {
     public static void main(String[] args) {

@@ -1,7 +1,5 @@
 package factoryMethod.developers;
 
-import factoryMethod.interfaces.Developer;
-
 public class CppDeveloper implements Developer {
     @Override
     public void writeCode() {

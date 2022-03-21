@@ -1,4 +1,6 @@
-package factoryMethod.developers;
+package abstractFactoryMethod.banking;
+
+import abstractFactoryMethod.domain.Developer;
 
 public class JavaDeveloper implements Developer {
     @Override
