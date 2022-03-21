@@ -1,4 +1,4 @@
-# CreationalDesignPattern
+# Creational Design Pattern
 
 ---CREATIONAL PATTERNS BY KARIMOV---
 
